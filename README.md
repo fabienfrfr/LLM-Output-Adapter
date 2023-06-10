@@ -1,4 +1,4 @@
-# LLM-AutoCritic
+# LLM-SelfCritic
 Adapt &amp; FineTune LLM for Critic Thought
 
 
