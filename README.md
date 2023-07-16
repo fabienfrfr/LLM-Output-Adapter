@@ -1,9 +1,9 @@
-# LLM-SelfCritic
+# LLM Output-Adapter
 Adapt &amp; FineTune LLM for Critic Thought
 
 Same principle of [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) but for output "adapter" and multiple llm model (llava). 
 
-**LLM-AutoCritic** is based on [Falcon-7B](https://huggingface.co/tiiuae/falcon-7b).
+**LLM-OutAdapter** is based on [MPT-7B](https://huggingface.co/mosaicml/mpt-7b) and is chosen to handle extremely long inputs (ALiBi).
 
   - Model type: Causal decoder with evaluation output;
   - Language(s) (NLP) : English and French;
