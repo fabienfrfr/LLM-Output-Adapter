@@ -1,6 +1,7 @@
 # LLM-SelfCritic
 Adapt &amp; FineTune LLM for Critic Thought
 
+Same principle of [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) but for output "adapter" and multiple llm model (llava). 
 
 **LLM-AutoCritic** is based on [Falcon-7B](https://huggingface.co/tiiuae/falcon-7b).
 
