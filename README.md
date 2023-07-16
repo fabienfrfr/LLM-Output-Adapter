@@ -20,5 +20,6 @@ Same principle of [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) bu
 **To Read about Control&Robotic with LLM :**
 
 	- https://github.com/GT-RIPL/Awesome-LLM-Robotics
+ 	- https://arxiv.org/abs/2305.19352
 
 **Attribution required : Fabien Furfaro (CC 4.0 BY NC ND SA)**
