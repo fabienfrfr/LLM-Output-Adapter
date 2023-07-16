@@ -1,5 +1,5 @@
 # LLM Output-Adapter
-Adapt &amp; FineTune LLM for Critic Thought
+Adapt &amp; FineTune LLM for Critic Thought and other Output.
 
 Same principle of [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) but for output "adapter" and multiple llm model (llava). 
 
